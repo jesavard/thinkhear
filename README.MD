@@ -21,7 +21,7 @@ Gathering written communication from an individual user and simply index words
 
 There needs to be a weighting of words and a study of this can be found here
 
-#THE SIMPLE WORD TRICK
+##The Simple Trick That Worked
  >The researchers found conservatives, more than liberals, tend to refer to things by names, instead of describing them in terms of features.
  Examples of this would be saying someone is an idealist rather than describing them as idealistic, or that someone is a pessimist rather than calling them pessimistic.
  If you describe someone as 'a homosexual' you're more likely to be conservative, while calling someone 'homosexual' - without the 'a' - makes you more liberal.
@@ -32,27 +32,26 @@ There needs to be a weighting of words and a study of this can be found here
 
 
 #Technologies Considered
-   * Cassandra [3][Scalable Database]
-   * Titan [4][Titan]
-      * Titan Docs [26][Documentation]
-      * Titan GitHub [27][Titan Github]
-   * Facebook Development[25][FB Signup]
+   * Scalable Database [Cassandra][3]
+   * Titan [Titan][4]
+      * Titan Docs [Documentation][26]
+      * Titan GitHub [Titan Github][27]
+   * Facebook Development [FB Signup][25]
 
 #Semantic Frameworks
-   * Opensource Semantic Framework [5][OSF]
-   * Open Semantic Framework [5][OSF]
-   * Openrdf [6][RDF]
-   * Apache Jena [7][Jena]
-   * Google Framework [8][Linked Media Framework]
-   * Pellet[9][Pellet]
-   * Wiki Tools [10][Tools]
-   * D2R [11] [D2R]
-   * Paget [12][Paget]
-   * Semantic MediWiki [13][Semantic MediaWiki]
+   * Opensource Semantic Framework [OSF][5]
+   * Openrdf [RDF][6]
+   * Apache Jena [Jena][7]
+   * Google Framework [Linked Media Framework][8]
+   * Pellet [Pellet][9]
+   * Wiki Tools [Tools][10]
+   * D2R [D2R][11]
+   * Paget [Paget][12]
+   * Semantic MediWiki [Semantic MediaWiki][13]
 
 #Tools
-   * Eclipse [40][Che]
-   * Jetbrains [41][Webstorm]
+   * Eclipse [Che][40]
+   * Jetbrains [Webstorm][41]
 
 [1]:  http://www.dailymail.co.uk/sciencetech/article-3463607/The-simple-trick-reveal-conservative-liberal-Study-discovers-words-away-political-beliefs.html#ixzz48REg6CBp       "Word Reveals"
 [2]:  https://www.kent.ac.uk/news/society/8853/conservatives-prefer-using-nouns-psychologists-find "Study"
