@@ -17,7 +17,7 @@ Gathering written communication from an individual user and simply index words
     * Conservative
     * Liberal
     * Neutral
-    * Neutral
+    * Vulgarities
 
 There needs to be a weighting of words and a study of this can be found here
 
