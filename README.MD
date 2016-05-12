@@ -1,6 +1,6 @@
 #THINKHEAR
 ----
-> This initial intent of this program is to gather messagaes,
+> This initial intent of this program is to gather messages,
 comments and general (like flags) weight the words, identify the
 communication intent and score it it -100 to +100.
 
